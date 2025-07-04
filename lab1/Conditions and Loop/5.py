@@ -3,6 +3,6 @@ numbers = list(map(int, input("Enter numbers separated by spaces: ").split()))
 
 largest = max(numbers)
 smallest = min(numbers)
-
+print(numbers)
 print(f"Largest number: {largest}")
 print(f"Smallest number: {smallest}")

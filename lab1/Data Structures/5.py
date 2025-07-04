@@ -1,3 +1,4 @@
+# Create a set of prime numbers less than 50. Write a program to check whether a given number exists in the set or not.
 prime_set = set()
 
 for num in range(2, 50):

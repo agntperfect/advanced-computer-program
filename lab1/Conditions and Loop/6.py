@@ -8,6 +8,7 @@ print("Enter 10 integers:")
 
 for _ in range(10):
     num = int(input())
+    print(num)
     if num > 0:
         positive += 1
     elif num < 0:

@@ -1,3 +1,4 @@
+# Write a program to count the number of each character in a given string using a dictionary.
 input_string = "Hello World!"
 
 char_count = {}  

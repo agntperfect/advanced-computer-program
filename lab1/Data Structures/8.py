@@ -1,3 +1,4 @@
+# Given a list of names, write a program to count how many times each name appears using a dictionary.
 names = ["Alice", "Bob", "Alice", "Eve", "Bob", "Alice"]
 
 count_dict = {}
